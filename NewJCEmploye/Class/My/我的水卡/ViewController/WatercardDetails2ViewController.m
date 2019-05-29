@@ -32,10 +32,6 @@
     self.title = @"水卡详情";
     self.view.backgroundColor = JCBackgroundColor;
     
-    for (NSObject * item in _itemDataArray) {
-        NSLog(@"_itemDataArray:::::::%@",item);
-    }
-//    NSLog(@"%@", );
     if(_itemDataArray.count >0)
     {
         
