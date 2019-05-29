@@ -1,0 +1,14 @@
+platform :ios, '9.0'
+
+target 'NewJCEmploye' do
+  use_frameworks!
+  pod 'UMCCommon'
+  pod 'UMCPush'
+  pod 'UMCSecurityPlugins'
+  pod 'AFNetworking'
+  pod 'Masonry'
+pod 'UMCCommonLog', '~> 1.0.0'
+pod 'MJRefresh', '~> 3.1.16'
+
+
+end

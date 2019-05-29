@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>startPoints</key>
+	<array>
+		<string>{8.5, 6.5}</string>
+		<string>{6.5, 11.5}</string>
+		<string>{9.5, 31.5}</string>
+		<string>{19.5, 8.5}</string>
+		<string>{19.5, 15.5}</string>
+		<string>{30.5, 5.5}</string>
+		<string>{20.5, 19.5}</string>
+		<string>{20.5, 31.5}</string>
+		<string>{40.5, 31.5}</string>
+		<string>{40.5, 19.5}</string>
+		<string>{51.5, 6.5}</string>
+		<string>{49.5, 11.5}</string>
+		<string>{52.5, 31.5}</string>
+		<string>{63.5, 5.5}</string>
+		<string>{71.5, 5.5}</string>
+		<string>{68.5, 9.5}</string>
+		<string>{83.5, 5.5}</string>
+		<string>{75.5, 5.5}</string>
+		<string>{78.5, 9.5}</string>
+		<string>{67.5, 12.5}</string>
+		<string>{64.5, 16.5}</string>
+		<string>{64.5, 24.5}</string>
+		<string>{83.5, 24.5}</string>
+		<string>{83.5, 16.5}</string>
+		<string>{64.5, 26.5}</string>
+		<string>{82.5, 26.5}</string>
+		<string>{64.5, 31.5}</string>
+		<string>{68.5, 9.5}</string>
+	</array>
+	<key>endPoints</key>
+	<array>
+		<string>{16.5, 9.5}</string>
+		<string>{14.5, 13.5}</string>
+		<string>{12.5, 18.5}</string>
+		<string>{41.5, 8.5}</string>
+		<string>{41.5, 15.5}</string>
+		<string>{30.5, 15.5}</string>
+		<string>{20.5, 31.5}</string>
+		<string>{40.5, 31.5}</string>
+		<string>{40.5, 19.5}</string>
+		<string>{20.5, 19.5}</string>
+		<string>{59.5, 9.5}</string>
+		<string>{57.5, 13.5}</string>
+		<string>{55.5, 18.5}</string>
+		<string>{71.5, 5.5}</string>
+		<string>{64.5, 14.5}</string>
+		<string>{68.5, 9.5}</string>
+		<string>{75.5, 5.5}</string>
+		<string>{83.5, 14.5}</string>
+		<string>{83.5, 9.5}</string>
+		<string>{79.5, 12.5}</string>
+		<string>{64.5, 24.5}</string>
+		<string>{83.5, 24.5}</string>
+		<string>{83.5, 16.5}</string>
+		<string>{64.5, 16.5}</string>
+		<string>{67.5, 31.5}</string>
+		<string>{80.5, 31.5}</string>
+		<string>{85.5, 31.5}</string>
+		<string>{63.5, 9.5}</string>
+	</array>
+</dict>
+</plist>

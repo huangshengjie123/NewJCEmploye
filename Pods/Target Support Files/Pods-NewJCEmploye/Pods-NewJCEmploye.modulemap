@@ -1,0 +1,6 @@
+framework module Pods_NewJCEmploye {
+  umbrella header "Pods-NewJCEmploye-umbrella.h"
+
+  export *
+  module * { export * }
+}
