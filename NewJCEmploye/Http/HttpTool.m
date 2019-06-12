@@ -15,6 +15,8 @@ static AFHTTPSessionManager *Photomanager;
 
 @implementation HttpTool
 
+// 分支
+
 /**字典转成Json字符串*/
 + (NSString*)dictionaryToJson:(NSDictionary *)dic
 {
